@@ -55,7 +55,7 @@ class App extends Component {
               </div>
           </header>
           <case-search inputobj={JSON.stringify(this.inputobj)}></case-search>
-          </div>
+</div>
     );
   }
 }
